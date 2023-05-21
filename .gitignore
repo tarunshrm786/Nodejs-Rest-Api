@@ -1,0 +1,23 @@
+# Node.js / Express.js
+node_modules/
+npm-debug.log
+.env
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# macOS
+.DS_Store
+
+# Logs and build files
+logs/
+dist/
+
+# Other
+*.log
